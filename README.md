@@ -9,5 +9,5 @@ JavaScript
 <h3>CRED </h3>
 CRED is a members only credit card bill payment platform that rewards its members for clearing their credit card bills on time.<br>
 Cred Link : https://cred.club/
-
-Project Link : 
+<br>
+Project Link : https://cred-clone-ui.netlify.app/
